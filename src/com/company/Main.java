@@ -5,7 +5,7 @@ public class Main {
         // Создать пустую очередь для хранения 10 элементов
         Queue q1 = new Queue(15);
 
-        char name[] = {'T', 'o', 'm'};
+        char name[] = {'T', 'o', 'm', 'i', 'J', 'r' };
 
         Queue q2 = new Queue(name);
 
